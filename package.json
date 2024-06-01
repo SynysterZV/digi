@@ -1,0 +1,21 @@
+{
+  "name": "digi",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^20.12.10",
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "@prisma/client": "^5.13.0",
+    "dotenv": "^16.4.5",
+    "googleapis": "^105.0.0",
+    "prisma": "^5.13.0"
+  }
+}
